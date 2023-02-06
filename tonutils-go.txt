@@ -5,7 +5,7 @@
    New functionality based on ADNL UDP is well tested too, but still require some more time and usages to find possible minor issues.
 4. https://github.com/xssnick/tonutils-go
 5. Oleg Baranov and community contributors.
-6. Constant development since April 2022.
+6. In active development since April 2022.
 7. Nearest: Merkle proofs, Storage, Overlays+Broadcast. Later: Alternative full node and validator.
 8. -
 9. Received 10000 TON from ton.org/grants in Jul, 2022 and some donations on early stages from the community.
